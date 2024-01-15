@@ -5,8 +5,8 @@
     "image": "tracky",
     "category": "native_android",
     "links": {
-      "view": "https://play.google.com/store/apps/details?id=achivementtrackerbyamit.example.achivetracker",
-      "code": "https://github.com/maityamit/Tracky-Track-your-goals-or-targets"
+      "view": "",
+      "code": ""
     }
   },
   {
@@ -15,8 +15,8 @@
     "image": "sleepometer",
     "category": "native_android",
     "links": {
-      "view": "https://play.google.com/store/apps/details?id=sleepometerbyamitmaity.example.sleepometer",
-      "code": "https://github.com/maityamit/Sleepometer-Android-App"
+      "view": "",
+      "code": ""
     }
   },
   {
@@ -25,8 +25,8 @@
     "image": "currency_convertjaav",
     "category": "native_android",
     "links": {
-      "view": "https://github.com/maityamit/currency_convert_firebase",
-      "code": "https://github.com/maityamit/currency_convert_firebase"
+      "view": "",
+      "code": ""
     }
   }
 ]
