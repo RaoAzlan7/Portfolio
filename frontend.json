@@ -1,0 +1,14 @@
+[
+    {
+        "name": "React.js",
+        "icon": "https://img.icons8.com/color/48/000000/react-native.png"
+    },
+    {
+        "name": "Next.js",
+        "icon": "https://i.pinimg.com/1200x/4a/2b/e7/4a2be73b1e2efb44355436c40bf496dd.jpg"
+    },
+    {
+        "name": "Vue.js",
+        "icon": "https://img.icons8.com/color/48/000000/vue-js.png"
+    }
+]
