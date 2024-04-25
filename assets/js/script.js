@@ -91,6 +91,8 @@ async function fetchData(type) {
     response = await fetch("backend.json");
   } else if (type === "database") {
     response = await fetch("database.json");
+  } else if (type === "projects") {
+    response = await fetch("projects.json");
   }
   const data = await response.json();
   return data;
@@ -188,7 +190,7 @@ function showNotes(notes) {
 }
 
 function showProjects(projects) {
-  let projectsContainer = document.querySelector("#work .box-container");
+  let projectsContainer = document.querySelector("#projectsContainer");
   let projectHTML = "";
   projects
     .slice(0, 10)

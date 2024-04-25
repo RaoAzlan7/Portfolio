@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Expensify for FDM",
+    "desc": "Expensify allows any FDM employees to complete and submit their expense claims for any business expenses they might incur.",
+    "image": "fdm",
+    "category": "web_app",
+    "links": {
+      "view": "",
+      "code": "https://github.com/RaoAzlan7/Expensify-for-FDM"
+    }
+  },
+  {
+    "name": "Restaurant: React App ",
+    "desc": "This is a customised website solution for your local business.",
+    "image": "restaurant",
+    "category": "native_android",
+    "links": {
+      "view": "",
+      "code": ""  
+    }
+  },
+  {
+    "name": "Weather for Football",
+    "desc": "Customised Weather Insight app for your Football Team.(for Football Managers)",
+    "image": "weather",
+    "category": "web_app",
+    "links": {
+      "view": "",
+      "code": "https://github.com/RaoAzlan7/weather-app-main"
+    }
+  }
+]
