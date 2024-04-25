@@ -1,32 +1,32 @@
 [
   {
-    "name": "Tracky: Track Goal Android",
-    "desc": "Tracky is an Android App that assists you in achieving success by keeping track of your daily goals.",
-    "image": "tracky",
-    "category": "native_android",
+    "name": "Expensify for FDM",
+    "desc": "Expensify allows any FDM employees to complete and submit their expense claims for any business expenses they might incur.",
+    "image": "fdm",
+    "category": "web_app",
     "links": {
       "view": "",
-      "code": ""
+      "code": "https://github.com/RaoAzlan7/Expensify-for-FDM"
     }
   },
   {
-    "name": "Sleepometer: Android App",
-    "desc": "Here is Sleepometer. Now you can measure and track your sleep in just single click.",
-    "image": "sleepometer",
+    "name": "Restaurant: React App ",
+    "desc": "This is a customised website solution for your local business.",
+    "image": "restaurant",
     "category": "native_android",
     "links": {
       "view": "",
-      "code": ""
+      "code": ""  
     }
   },
   {
-    "name": "Currency Converter App",
-    "desc": "Currency Convert App Using Firebase application 📱 built using Java ♨️ and showing best practices of 🛠️ FireBase and API.",
-    "image": "currency_convertjaav",
-    "category": "native_android",
+    "name": "Weather for Football",
+    "desc": "Customised Weather Insight app for your Football Team.(for Football Managers)",
+    "image": "weather",
+    "category": "web_app",
     "links": {
       "view": "",
-      "code": ""
+      "code": "https://github.com/RaoAzlan7/weather-app-main"
     }
   }
 ]
